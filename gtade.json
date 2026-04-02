@@ -1,0 +1,42 @@
+{
+  "name": "GTA Devinitive",
+  "identifier": "com.elias.gtadefinitive",
+  "subtitle": "GTA Definitive Collection",
+  "description": "Welcome to the repo called GTA Devinitive. Here you can download and install all three GTA definitive versions for iOS. MADE BY ELIAS.",
+  "iconURL": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0106/9EfOgkd9XN01Hzre1v61y27z.png",
+  "apps": [
+    {
+      "name": "GTA San Andreas Definitive Edition",
+      "bundleIdentifier": "com.rockstargames.gtasa.de",
+      "developerName": "Rockstar Games",
+      "version": "1.86",
+      "versionDate": "2024-01-01",
+      "downloadURL": "https://archive.org/download/GTAIIIDefenitive/GTA-San-Andreas-Definitive-v1.86-iosvizor.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/12/GTA-San-Andreas-%E2%80%93-Definitive.png",
+      "localizedDescription": "Grand Theft Auto: San Andreas Definitive Edition for iOS.",
+      "size": 2460000000
+    },
+    {
+      "name": "GTA III Definitive Edition",
+      "bundleIdentifier": "com.rockstargames.gta3.de",
+      "developerName": "Rockstar Games",
+      "version": "1.0",
+      "versionDate": "2024-01-01",
+      "downloadURL": "https://archive.org/download/GTAIIIDefenitive/GTAIIIDefenitive.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/12/GTA-III-%E2%80%93-Definitive.png",
+      "localizedDescription": "Grand Theft Auto III Definitive Edition for iOS.",
+      "size": 1410000000
+    },
+    {
+      "name": "GTA Vice City Definitive Edition",
+      "bundleIdentifier": "com.rockstargames.gtavc.de",
+      "developerName": "Rockstar Games",
+      "version": "1.72.4",
+      "versionDate": "2024-01-01",
+      "downloadURL": "https://archive.org/download/GTAIIIDefenitive/gta-vice-city-definitive_v1.72.4-iosvizor.ipa",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/12/GTA-Vice-City-%E2%80%93-Definitive.png",
+      "localizedDescription": "Grand Theft Auto: Vice City Definitive Edition for iOS.",
+      "size": 2280000000
+    }
+  ]
+}
